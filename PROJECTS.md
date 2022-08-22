@@ -1,4 +1,4 @@
-<h3 align="center">Open Source Society University</h3>
+<h3 align="center">Open Source with Paras</h3>
 <p align="center">
 	<i>Knowledge and skills as commons</i>
 </p>
